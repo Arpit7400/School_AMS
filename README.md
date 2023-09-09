@@ -20,8 +20,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/Arpit7400/your-repo.git
-
+   git clone https://github.com/Arpit7400/School_AMS.git
 
 API Endpoints
 The application provides the following API endpoints:
